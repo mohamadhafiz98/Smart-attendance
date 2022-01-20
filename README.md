@@ -67,21 +67,24 @@
 
 ### Flow Diagram
 
-![7.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/6.png)
+![7.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/7.png)
 
-### Code
+## Code
 
-## Package need
-![6.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/12%20face%20recognize.png)
+### Package need
+![6.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/6.png)
 
 ### Face Recognition and Attendance Record
 ![12.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/12%20face%20recognize.png)
 
-### Generate Data Set code
+### Facial Recognition 
+![13.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/13%20image%20recognition.png)
 
+### Generate Data Set code
+![14.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/14%20generate%20dataset.png)
 
 ### Mark Attendance
-![3.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/11%20mark%20attendance.png)
+![11.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/11%20mark%20attendance.png)
 
 ### Project Result
 
@@ -93,14 +96,16 @@ Result 2 Student Information Page
 
 ![2.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/2.png)
 
-Result 3 Attendance Using Facial Recognition
+Result 3 Face Recognition and attendance taken
 
 ![1.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/1.png)
 
-Result 4 Attendance Record
-![12.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/10.png)
+Result 4 Attendance Record in Excel 
+![10.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/10.png)
 
 ## E. COMPLETING THE PROJECT
+
+
 
 ## F. PROJECT PRESENTATION
 
