@@ -23,15 +23,12 @@
 
 ### Project Management Life-Cycle
 
-#### Figure 1: Gantt Chart
-image 1
+
 #### Figure 2: Work Breakdown Structure
-image 2
+![8.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/8.png)
 
 ### Responsibility Assignment Matrices (RAM) :
-image 3
-
-image 4
+![9.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/9.png)
 
 ### Project Planning Summary:
 
@@ -68,18 +65,17 @@ table 2
 
 ### Flow Diagram
 
-image
+![7.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/7.png)
 
 ### Code
 
 ## Package need
--asdas
--asda
--asd
--asdas
--asdas
+- from tkinter import *
+- import cv2
+- import mysql.connector
 
-### Face Recognition
+### Face Recognition and Attendance Record
+![12.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/12%20face%20recognize.png)
 
 ### Generate Data Set code
 
