@@ -47,11 +47,20 @@ table 2
 
 ### Estimated Costs and Tasks
 
-table
+| Task  | Estimated Cost (RM) | Comments  | 
+| ------------- | ------------- | ------------- | 
+| Acquisition   |  33,600  | Laptop, Software, Printer, Camera, Fuel Fees, Food  | 
+| Design   |  24,005  |  Preliminary Design, Final Design, Data Collection | 
+| Restoration   |  26,100  |  Equipment, Administrative, other | 
 
 ### Milestone Chart
 
-table
+| Milestone  | Scheduled Completion | Actual Completion  | 
+| ------------- | ------------- | ------------- | 
+|  Planning  | 25 October 2021  |  26 October 2021 | 
+|  Analysis  | 15 November 2021  | 20 November 2021  | 
+|  Design  | 31 December 2021  | 25 December 2021  | 
+|  Implementation  | 5 January 2022 | 9 January 2022 | 
 
 ## D. EXECUTING THE PROJECT
 
