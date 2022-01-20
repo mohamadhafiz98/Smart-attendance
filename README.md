@@ -16,8 +16,8 @@
 |  MUHAMMAD AMSYAR BIN HAMDAN   | B032010479  | S1G1  |
 
 ### Objectives
--To Make window based attendance system using facial recognition
--To improve the efficiency of the user attendance
+- To Make window based attendance system using facial recognition
+- To improve the efficiency of the user attendance
 
 ## B. PLANNING THE PROJECT
 
