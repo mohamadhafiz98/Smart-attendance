@@ -88,19 +88,19 @@
 
 ### Project Result
 
-Result 1 System Menu
+Result 1 : System Menu
 
 ![3.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/3.png)
 
-Result 2 Student Information Page
+Result 2 : Student Details Page
 
 ![2.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/2.png)
 
-Result 3 Face Recognition and attendance taken
+Result 3 : Face Recognition and attendance taken
 
 ![1.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/1.png)
 
-Result 4 Attendance Record in Excel 
+Result 4 : Attendance Record in Excel 
 ![10.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/10.png)
 
 ## E. COMPLETING THE PROJECT
