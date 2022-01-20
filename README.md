@@ -29,7 +29,7 @@
 
 #### Tree Structure View
 
-![15.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/15 .png)
+![15.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/15%20.png)
 
 #### Risk Management
 
