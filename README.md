@@ -45,8 +45,59 @@ table 2
 -Design Deliverables
 -Implementation Deliverables
 
-## Estimated Costs and Tasks
+### Estimated Costs and Tasks
 
 table
 
-##
+### Milestone Chart
+
+table
+
+## D. EXECUTING THE PROJECT
+
+### Project Design and Code
+
+### Flow Diagram
+
+image
+
+### Code
+
+## Package need
+-asdas
+-asda
+-asd
+-asdas
+-asdas
+
+### Face Recognition
+
+### Generate Data Set code
+
+### Mark Attendance
+
+### Project Result
+
+Result 1 System Menu
+
+Result 2 Student Information
+
+Image
+
+Result 3 Attendance Using Facial Recognition
+
+Image
+
+Result 4 Attendance Record
+
+## E. COMPLETING THE PROJECT
+
+## F. PROJECT PRESENTATION
+
+### Presentation Video
+
+Link
+
+
+
+
