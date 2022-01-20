@@ -23,7 +23,6 @@
 
 ### Project Management Life-Cycle
 
-
 #### Figure 2: Work Breakdown Structure
 ![8.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/8.png)
 
@@ -32,15 +31,18 @@
 
 ### Project Planning Summary:
 
-table 2
+| Modules/Components  | Budget (RM) | Details  | 
+| ------------- | ------------- | ------------- | 
+|  Salary  | 100,000  |  Project manager, Software Engineer,Designer, Project Analysis |
+|  Face Detection  | 30,000  |  Laptop, Camera, Software |
 
 ## C. IMPLEMENTING THE PROJECT PLAN
 
 ### Deliverables
--Planning Deliverables
--Analysis Deliverables
--Design Deliverables
--Implementation Deliverables
+- Planning Deliverables
+- Analysis Deliverables
+- Design Deliverables
+- Implementation Deliverables
 
 ### Estimated Costs and Tasks
 
@@ -65,35 +67,38 @@ table 2
 
 ### Flow Diagram
 
-![7.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/7.png)
+![7.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/6.png)
 
 ### Code
 
 ## Package need
-- from tkinter import *
-- import cv2
-- import mysql.connector
+![6.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/12%20face%20recognize.png)
 
 ### Face Recognition and Attendance Record
 ![12.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/12%20face%20recognize.png)
 
 ### Generate Data Set code
 
+
 ### Mark Attendance
+![3.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/11%20mark%20attendance.png)
 
 ### Project Result
 
 Result 1 System Menu
 
-Result 2 Student Information
+![3.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/3.png)
 
-Image
+Result 2 Student Information Page
+
+![2.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/2.png)
 
 Result 3 Attendance Using Facial Recognition
 
-Image
+![1.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/1.png)
 
 Result 4 Attendance Record
+![12.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/10.png)
 
 ## E. COMPLETING THE PROJECT
 
@@ -103,6 +108,10 @@ Result 4 Attendance Record
 
 Link
 
+### Demostration Video
 
+
+### Reference
+https://www.youtube.com/channel/UCP1HhCg0ZwOyLFssftBCDIA
 
 
