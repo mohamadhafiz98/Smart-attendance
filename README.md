@@ -17,7 +17,7 @@
 
 ### Objectives
 - To Make window based attendance system using facial recognition
-- To improve the efficiency of the user attendance
+- To improve the efficiency of the students attendance
 
 ## B. PLANNING THE PROJECT
 
@@ -80,10 +80,10 @@
 ### Facial Recognition 
 ![13.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/13%20image%20recognition.png)
 
-### Generate Data Set code
+### Generate Students Data Set code
 ![14.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/14%20generate%20dataset.png)
 
-### Mark Attendance
+### Mark Students Attendance
 ![11.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/11%20mark%20attendance.png)
 
 ### Project Result
@@ -101,6 +101,7 @@ Result 3 : Face Recognition and attendance taken
 ![1.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/1.png)
 
 Result 4 : Attendance Record in Excel 
+
 ![10.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/10.png)
 
 ## E. COMPLETING THE PROJECT
@@ -115,6 +116,7 @@ Link
 
 ### Demostration Video
 
+Link
 
 ### Reference
 https://www.youtube.com/channel/UCP1HhCg0ZwOyLFssftBCDIA
