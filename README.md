@@ -23,10 +23,20 @@
 
 ### Project Management Life-Cycle
 
-#### Figure 2: Work Breakdown Structure
+#### Work Breakdown Structure
+
 ![8.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/8.png)
 
+#### Tree Structure View
+
+![15.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/15.png)
+
+#### Risk Management
+
+![16.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/16.png)
+
 ### Responsibility Assignment Matrices (RAM) :
+
 ![9.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/9.png)
 
 ### Project Planning Summary:
