@@ -5,7 +5,7 @@
 
 ### Project Summary
 
-#### Customer: Public School
+#### Customer: Zamri Sdn. Bhd.
 #### Project: Smart Attendance System
 
 | Name  | Matrix Number | Class  | 
