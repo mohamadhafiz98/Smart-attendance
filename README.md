@@ -134,9 +134,6 @@ Result 4 : Attendance Record in Excel
 
 Link
 
-### Demostration Video
-
-Link
 
 ### Reference
 https://www.youtube.com/channel/UCP1HhCg0ZwOyLFssftBCDIA
