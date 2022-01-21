@@ -116,7 +116,21 @@ Result 4 : Attendance Record in Excel
 
 ## E. COMPLETING THE PROJECT
 
+### Acceptance/Project Completion Form Sign-Off
 
+![17.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/17%20signoff.png)
+
+### Lessons Learned
+
+[Lessons Learned](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Project%20Documentation/12%20Project%20Closing.pdf)
+
+### Close Contract
+
+![18.png](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/Images/18.png)
+
+### Final Report
+
+[Final Report](https://github.com/mohamadhafiz98/Smart-attendance/blob/main/README.md)
 
 ## F. PROJECT PRESENTATION
 
